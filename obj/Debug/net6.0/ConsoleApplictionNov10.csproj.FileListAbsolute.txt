@@ -1,0 +1,15 @@
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/bin/Debug/net6.0/ConsoleApplictionNov10
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/bin/Debug/net6.0/ConsoleApplictionNov10.deps.json
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/bin/Debug/net6.0/ConsoleApplictionNov10.runtimeconfig.json
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/bin/Debug/net6.0/ConsoleApplictionNov10.dll
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/bin/Debug/net6.0/ref/ConsoleApplictionNov10.dll
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/bin/Debug/net6.0/ConsoleApplictionNov10.pdb
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/obj/Debug/net6.0/ConsoleApplictionNov10.csproj.AssemblyReference.cache
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/obj/Debug/net6.0/ConsoleApplictionNov10.GeneratedMSBuildEditorConfig.editorconfig
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/obj/Debug/net6.0/ConsoleApplictionNov10.AssemblyInfoInputs.cache
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/obj/Debug/net6.0/ConsoleApplictionNov10.AssemblyInfo.cs
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/obj/Debug/net6.0/ConsoleApplictionNov10.csproj.CoreCompileInputs.cache
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/obj/Debug/net6.0/ConsoleApplictionNov10.dll
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/obj/Debug/net6.0/ref/ConsoleApplictionNov10.dll
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/obj/Debug/net6.0/ConsoleApplictionNov10.pdb
+/home/asia/dotnet-workspace/ConsoleApplictionNov10/obj/Debug/net6.0/ConsoleApplictionNov10.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApplictionNov10/1.0.0": {
+        "runtime": {
+          "ConsoleApplictionNov10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApplictionNov10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
