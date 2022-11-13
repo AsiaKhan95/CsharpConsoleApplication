@@ -1,42 +1,44 @@
-﻿using System;
-//Task 1
-//Write a program in C# to creaet a function to check whether a number is prime or not
-//prime no : number that is only divisible by itself
-class Program
-{
-    static void Main(string[] args)
-    {
+﻿// using System;
+// /*Write a program in c# to create a function to calculate the sum of the individual digits of 
+// a given number*/
+// //1234
+// //10
+// class Task2
+// {
+//     static void Main(string[] args)
+//     {
+//         /*Write a program in c# to create a function to calculate the sum of the individual
+//          digits of a given number*/
 
-        int PrimeNumberChecker(int num)
-        {
-            int noOfFactor = 0;
-            for (int i = 2; i <= num; i++)
-            {
-                if (num % i == 0)
-                {
-                    noOfFactor++;
-                }
-            }
-            return noOfFactor;
-        }
+//         Console.WriteLine("Enter a number");
+//         try
+//         {
+//             string str = Console.ReadLine();
+//             // Creating an integer array 
+//             int[] num = new int[str.Length];
+//             // Copy character by character into array 
+//             for (int i = 0; i < str.Length; i++)
+//             {
+//                 num[i] = Convert.ToInt32("" + str[i]);
+//             }
+//             SumOfDigit(num);
+//         }
+//         catch (Exception)
+//         {
+//             Console.WriteLine("Plz enter number only...");
+//         }
 
-        Console.WriteLine("Enter a number");
-        try
-        {
-            int num = Convert.ToInt32(Console.ReadLine());
-            int noOfFactor = PrimeNumberChecker(num);
-            if (noOfFactor == 1)
-            {
-                Console.WriteLine($"{num} is a prime number");
-            }
-            else
-            {
-                Console.WriteLine($"{num} is a not prime number");
-            }
-        }
-        catch (Exception e)
-        {
-            Console.WriteLine($"Please enter a number {e}");
-        }
-    }
-}
+//         static void SumOfDigit(int[] num)
+//         {
+//             int sumOfDigit = 0;
+
+//             for (int i = 0; i < num.Length; i++)
+//             {
+//                 sumOfDigit += num[i];
+//             }
+//             Console.WriteLine(sumOfDigit);
+//         }
+
+
+//     }
+// }
